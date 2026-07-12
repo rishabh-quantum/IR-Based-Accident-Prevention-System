@@ -58,3 +58,9 @@ README.md
 ## Acknowledgement
 
 Project completed at IISER Pune under the guidance of **Dr. Shouvik Datta**.
+
+---
+
+## License
+
+This repository is intended for academic and educational purposes.
