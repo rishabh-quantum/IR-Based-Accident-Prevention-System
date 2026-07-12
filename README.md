@@ -39,8 +39,8 @@ The objective of this project was to design an intelligent accident prevention s
 
 ```
 code/
+images
 report/
-images/
 README.md
 ```
 
